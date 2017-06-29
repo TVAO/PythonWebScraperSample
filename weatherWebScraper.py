@@ -1,6 +1,7 @@
 
 # Extract weather information from SF
 # Source: http://forecast.weather.gov/MapClick.php?lat=37.7772&lon=-122.4168#.WVTaZ-uGOUk
+# Inspiration: https://first-web-scraper.readthedocs.io/en/latest/
 
 """""
 Guide on scraping:
